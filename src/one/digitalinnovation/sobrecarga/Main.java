@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Calculos Quadrilateros");
         Quadrilatero.area(2);
         Quadrilatero.area(5,5);
-        Quadrilatero.area(7,8,9);
+        Quadrilatero.area(7,8,8);
 
     }
 }
